@@ -1,0 +1,20 @@
+/**
+ * Calvin Low
+ * Student #:001294060
+ * Lab #: CSI 9298
+ * TA Name: Yu Zhang
+ * 
+ * This program will reverse strings and check for palindromes, the code will first
+ * ask the user to enter a string to reverse or "done" to exit. If the user enters a string
+ * then the code will use a recursive algorithm and implementation to reverse the string. If
+ * the original and reversed strings are the same then the program will indicate that it is a 
+ * palindrome. The program will then ask for another string and do the same until the user 
+ * enters "done" to exit.
+ */
+
+import java.util.Scanner;
+
+public class Module1
+{
+  
+}
